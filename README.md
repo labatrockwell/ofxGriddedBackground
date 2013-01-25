@@ -49,7 +49,7 @@ NOTE: The example has a background that draws in 2 places.  It mimicks having 2 
   * Try a very small image (anything scaled down).
 
 * Licensing
-  * MIT + LGPL
+  * Open-source (BSD license)
 
 * Notes
   *
